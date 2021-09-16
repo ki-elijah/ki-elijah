@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ElijahKizito
-
-Me
-
-Hello, world! I'm Elijah 👋🏼 
-
-[website](https://elijahknsubuga.netlify.app/)
 
 I am a certified biomedical engineering technician from [Kyambogo University](https://kyu.ac.ug).
 
