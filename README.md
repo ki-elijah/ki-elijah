@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I am a certified biomedical engineering technician from [Kyambogo University](https://kyu.ac.ug).
 
-Current favorite stack pancakes: Python, React, Django, Node.js, AWS
+Current favorite stack: Python, React, Django, Node.js, AWS
 
-I'm learning machine learning at the moment and on my way to a fullstack developer.
+I'm learning machine learning at the moment and I am also on my way to an experienced fullstack developer.
 
-love_letter [Email](mailto:elijahknsubuga@gmail.com) me 
+[Email](mailto:elijahknsubuga@gmail.com) me 
