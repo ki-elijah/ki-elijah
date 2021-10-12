@@ -1,7 +1,5 @@
 ### Hi there, I'm Elijah 👋🏼 
 
-[website](https://elijahknsubuga.netlify.app/)
-
 <!--
 **ki-elijah/ki-elijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm learning machine learning at the moment and I am also on my way to an experienced fullstack developer.
 
 ## Connect with me :point_down:
 
