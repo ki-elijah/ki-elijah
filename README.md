@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ## Connect with me :point_down:
 
 [<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elijahknsub/) [<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ki_elijah)  
-[<img align='right' src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg' alt='gmail' height='40'>](mailto:elijahknsubuga@gmail.com)  
+[<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg' alt='gmail' height='40'>](mailto:elijahknsubuga@gmail.com)  
+[<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg' alt='gmail' height='40'>](mailto:elijahknsubuga@gmail.com)  
 
 <br />
 <br />
