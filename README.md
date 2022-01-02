@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <br />
 
 ### ✨ Hobbies
--![image](https://user-images.githubusercontent.com/47913934/147870586-539c347f-000c-4f3b-8050-0171162977b5.png)Gaming
-- 📚 Reading books
-- 🌎 Learning foreign languages (Español, Swahili, Mandarin)
+- Gaming
+- Reading books
+- Learning foreign languages (Español, Swahili, Mandarin)
 
 ## Languages and Tools  :fire:
 
