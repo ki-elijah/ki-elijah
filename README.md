@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/codergirl_al"><img src="https://github.com/ki-elijah/ki-elijah/blob/main/devcard.svg" width="300" alt="Elijah Kizito's Dev Card"/></a>
 [![Elijah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-elijah&theme=tokyonight)](https://github.com/ki-elijah/github-readme-stats)
 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/ki-elijah/ki-elijah/output/github-contribution-grid-snake.svg)
-
 ![Profile views](https://gpvc.arturio.dev/ki-elijah)
 [![GitHub followers](https://img.shields.io/github/followers/codergirl-al.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ki-elijah?tab=followers)
 
