@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+### ✨ Hobbies
+-![image](https://user-images.githubusercontent.com/47913934/147870586-539c347f-000c-4f3b-8050-0171162977b5.png)Gaming
+- 📚 Reading books
+- 🌎 Learning foreign languages (Español, Swahili, Mandarin)
+
 ## Languages and Tools  :fire:
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" >
@@ -49,9 +54,17 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## Stats :star:
+### Stats
+[![Elijah's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ki-elijah&theme=tokyonight)](https://github.com/ki-elijah/github-readme-streak-stats)
+[![Elijah's stats](https://github-readme-stats.vercel.app/api?username=ki-elijah&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/ki-elijah/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ki-elijah&show_icons=true)  
+### Languages && Dev Card
+<a href="https://app.daily.dev/codergirl_al"><img src="https://github.com/ki-elijah/ki-elijah/blob/main/devcard.svg" width="300" alt="Elijah Kizito's Dev Card"/></a>
+[![Elijah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-elijah&theme=tokyonight)](https://github.com/ki-elijah/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ki-elijah)  
+### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+![Contribution grid snake animation](https://raw.githubusercontent.com/ki-elijah/ki-elijah/output/github-contribution-grid-snake.svg)
+
+![Profile views](https://gpvc.arturio.dev/ki-elijah)
+[![GitHub followers](https://img.shields.io/github/followers/codergirl-al.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ki-elijah?tab=followers)
 
