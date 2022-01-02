@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 [![Elijah's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ki-elijah&theme=tokyonight)](https://github.com/ki-elijah/github-readme-streak-stats)
 [![Elijah's stats](https://github-readme-stats.vercel.app/api?username=ki-elijah&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/ki-elijah/github-readme-stats)
 
-### Languages && Dev Card
-<a href="https://app.daily.dev/ki-elijah"><img src="https://github.com/ki-elijah/ki-elijah/blob/main/devcard.svg" width="300" alt="Elijah Kizito's Dev Card"/></a>
+### Languages
 [![Elijah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-elijah&theme=tokyonight)](https://github.com/ki-elijah/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/ki-elijah)
